@@ -1,1 +1,1 @@
-Merge conflict in b1
+Merge conflict
